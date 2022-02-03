@@ -1,6 +1,6 @@
 # wiki
 
-## GitHub
+## Git
 
 ### Remove all changes and reset to current branch.
 `git reset --hard`
